@@ -1,0 +1,10 @@
+bu kod "generate" fonksiyonu ile "a" dizisine rastgele sayılar atamayı sağlar,
+function1 fonksiyonu ise bubble sort algoritması ile dizi sıralar
+function2 fonksiyonu a dizisindeki elemanları toplayarak en büyük toplamı ve toplam eleman sayısını hesaplayıp, aritmetik ortalama almayı sağlar.
+function3 fonksiyonu "g" matrisini Floyd-Warshall algoritması ile d matrisine dönüştürme işlemi yapar, en kısa yol bulma algoritmasıdır.
+print1 fonksiyonu a dizisini ekrana yazdırırken print2 fonksiyonu g matrisini ekrana yazdırır ve print3 fonksiyonu ise d matrisini t değerini kullanarak, t değerinden küçük olan tüm yol uzunluklarını ekrana yazdırır.
+
+neler değiştirilebilir?
+    function1 için bubble sort yerine merge sort algoritması önerilir.
+    function2 için daha az bir zaman karmaşıklığı ile aritmetik ortalama algoritması önerilebilir.
+    function3 için Floyd-Warshall algoritması yerine dijkstra algoritması önerilir.
